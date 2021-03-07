@@ -1,2 +1,2 @@
 # Code
-V.J. Codes (PhD thesis, papers, etc.)
+V.J. Codes (PhD research, papers, etc.)
